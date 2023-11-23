@@ -4,4 +4,4 @@
 
 
 
-![GitHub repo file count (file extension)]("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
+![GitHub repo file count (file extension)](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
