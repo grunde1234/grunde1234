@@ -4,3 +4,4 @@
 
 
 
+![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/:user/:repo/:path)
